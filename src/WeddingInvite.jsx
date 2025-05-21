@@ -1,3 +1,4 @@
+
 export default function WeddingInvite() {
   return (
     <div className="min-h-screen bg-pink-50 flex flex-col items-center justify-center text-center p-6">
